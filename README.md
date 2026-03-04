@@ -43,7 +43,7 @@ cp .env.example .env
 
 # Editar o arquivo .env e adicionar suas chaves
 # Minimamente necessário: OPENAI_API_KEY=sua_chave_aqui
-#                         MODEL=modelo_aqui
+#                         MODEL=seu_modelo_aqui
 ```
 ## Dependências Principais
 
