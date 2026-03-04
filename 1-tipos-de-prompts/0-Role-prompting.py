@@ -3,6 +3,7 @@
 # from langchain_openai import ChatOpenAI
 # from langchain_core.prompts import ChatPromptTemplate
 # from utils import print_llm_result
+# import os
 # from dotenv import load_dotenv
 # load_dotenv()
 
@@ -29,7 +30,6 @@
 ##------------------------------------------------------##
 ## NVIDIA teste
 from langchain_nvidia_ai_endpoints import ChatNVIDIA
-from utils import print_llm_result
 import os
 from dotenv import load_dotenv
 load_dotenv()
